@@ -1,3 +1,3 @@
 library(DBI)
-library(tidyverse) # Hello world 22.9
+library(tidyverse) # Hello world
 
